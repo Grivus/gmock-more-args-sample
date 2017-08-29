@@ -1,0 +1,6 @@
+[submodule "src/3rd-party/googletest"]
+	path = src/3rd-party/googletest
+	url = https://github.com/google/googletest.git
+[submodule "src/3rd-party/gmock-more-args"]
+	path = src/3rd-party/gmock-more-args
+	url = https://github.com/Grivus/gmock-more-args
